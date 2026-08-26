@@ -1,0 +1,7 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "jupyter.runStartupCommands": [
+        "import pandas as pd",
+        "df = pd.read_csv('data/customer_churn.csv')"
+    ]
+}
